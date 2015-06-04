@@ -1,2 +1,2 @@
 # datasciencecoursera
-Coursera online course in the Data Scientist's Toolbox
+Repo for the Coursera online course "The Data Scientist's Toolbox"
