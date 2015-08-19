@@ -1,5 +1,5 @@
 ## Solution code for Coursera R Programming Course
-## Week 3 - Assignment: Caching the Inverse of a Matrix
+## Week 3 - Assignment: Caching the Inverse of a Matrix 
 
 
 ## The code contains two functions - makeCacheMatrix and cacheSolve -
